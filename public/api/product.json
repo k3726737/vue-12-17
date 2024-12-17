@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "name": "自動攝影機",
+      "price": 2899,
+      "category": "電子產品",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "液晶螢幕",
+      "price": 18299,
+      "category": "電子產品",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "電熱毯",
+      "price": 816,
+      "category": "家居用品",
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "name": "微波爐",
+      "price": 1932,
+      "category": "電子產品",
+      "inStock": false
+    },
+    {
+      "id": 5,
+      "name": "羊毛衫",
+      "price": 1209,
+      "category": "服飾",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "保溫器",
+      "price": 2376,
+      "category": "家居用品",
+      "inStock": false
+    },
+    {
+      "id": 7,
+      "name": "電競筆記型電腦",
+      "price": 29312,
+      "category": "電子產品",
+      "inStock": false
+    },
+    {
+      "id": 8,
+      "name": "陽綠雪球圓潤翡翠",
+      "price": 12059,
+      "category": "戒指",
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "春帶彩初綠飄花",
+      "price": 31376,
+      "category": "手鐲",
+      "inStock": false
+    },
+    {
+      "id": 10,
+      "name": "冰藍花甜甜圈墜飾18K",
+      "price": 19352,
+      "category": "項鍊",
+      "inStock": false
+    },
+    {
+      "id": 11,
+      "name": "冰晴圓珠耳針18K",
+      "price": 19305,
+      "category": "耳環",
+      "inStock": false
+    },
+    {
+      "id": 12,
+      "name": "紫飄花愛心手鍊18K",
+      "price": 9384,
+      "category": "手鍊",
+      "inStock": true
+    },
+    {
+      "id": 13,
+      "name": "幽深湖水綠",
+      "price": 24531,
+      "category": "戒指",
+      "inStock": false
+    },
+    {
+      "id": 14,
+      "name": "半山水黑豫圓骨鐲",
+      "price": 5123,
+      "category": "手鐲",
+      "inStock": true
+    },
+    {
+      "id": 15,
+      "name": "紫羅蘭珠串",
+      "price": 34562,
+      "category": "手鍊",
+      "inStock": true
+    },
+    {
+      "id": 16,
+      "name": "白冰戒圈",
+      "price": 27384,
+      "category": "戒指",
+      "inStock": true
+    },
+    {
+      "id": 17,
+      "name": "半山水老藍水戒圈",
+      "price": 62123,
+      "category": "戒指",
+      "inStock": true
+    },
+    {
+      "id": 18,
+      "name": "高冰近玻璃精品串",
+      "price": 72631,
+      "category": "手鍊",
+      "inStock": true
+    }
+  ]
+  
